@@ -7,9 +7,9 @@ This Repository is Only for Collect Advices to Pug Plugin
 
 # 建议提交方法
 
-![](C:\Users\mache\AppData\Roaming\marktext\images\2022-07-06-22-53-28-image.png)
 
-点击如图所示的Issues-new issue
+
+点击标签栏的Issues-new issue
 
 
 
